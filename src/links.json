@@ -1,14 +1,15 @@
 {
   "/": "https://mail.google.com/a/innisfreevillage.org",
-  "cal": "https://www.google.com/calendar/hosted/innisfreevillage.org",
   "dash": "https://workspace.google.com/dashboard",
+  "cal": "https://www.google.com/calendar/hosted/innisfreevillage.org",
   "drive": "https://drive.google.com/a/innisfreevillage.org",
-  "fb": "https://www.facebook.com/InnisfreeVillage/",
-  "fb-group": "https://www.facebook.com/groups/52023941263",
   "groups": "https://groups.google.com/a/innisfreevillage.org",
-  "ig": "https://instagram.com/InnisfreeVillage/",
   "mail": "https://mail.google.com/a/innisfreevillage.org",
   "portal": "https://sites.google.com/a/innisfreevillage.org/portal",
+  "fb": "https://www.facebook.com/InnisfreeVillage/",
+  "fb-group": "https://www.facebook.com/groups/52023941263",
+  "ig": "https://instagram.com/InnisfreeVillage/",
+  "li": "https://linkedin.com/company/innisfree-village",
   "yt": "https://www.youtube.com/c/InnisfreevillageOrg",
   "www": "https://www.innisfreevillage.org"
 }
